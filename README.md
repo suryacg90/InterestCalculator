@@ -1,0 +1,2 @@
+# InterestCalculator
+Simple interest calculator
